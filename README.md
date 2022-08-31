@@ -1,7 +1,7 @@
 # Information-Retrieval
 
 ### ABSTRACT 
-
+<div style="text-align: justify">
 Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
 the invention of computers, information retrieval systems that support and accomplish this goal have
 been of highest importance. Their significance has multiplied with the advent of the Internet and web
@@ -19,7 +19,7 @@ incorporate a framework that utilises Graph Neural Networks along with Reinforce
 use citation networks to incorporate GNNs into our research. This is followed by the utilisation of RL
 algorithms such as PPO and MDPRank to rank the documents present in the citation network. The
 entire workflow is explained in much more detail later in the report.
-
+</div>
 
 ### METHODOLOGY
 
@@ -29,5 +29,6 @@ such as Node2Vec and DeepWalk are used to calculate embeddings of the nodes. In 
 statement, the nodes are the documents that need to be ranked and the edges are the links between the
 documents. For instance, in the scenario of searching for research papers, the nodes will be the papers
 themselves and the links will be the citations these papers carry to different papers within the dataset.
+
 
 ![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
