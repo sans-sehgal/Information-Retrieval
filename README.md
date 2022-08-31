@@ -30,4 +30,4 @@ statement, the nodes are the documents that need to be ranked and the edges are 
 documents. For instance, in the scenario of searching for research papers, the nodes will be the papers
 themselves and the links will be the citations these papers carry to different papers within the dataset.
 
-![Node Embeddings] (https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
+![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
