@@ -33,4 +33,18 @@ themselves and the links will be the citations these papers carry to different p
 <br>
 
 ![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
+<br>
+<br>
+<br>
+![Skip Gram Model](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Skip%20Gram%20Model.png)
+Initially, we carry out these rankings on a static graph, and analyse the results obtained. However, since
+static graphs involve training the GNN model from scratch every time new nodes (aka documents) are
+added, it takes too long to train. Thus, to make our implementation more practical and feasible to real
+world systems, we attempt to use dynamic graphs.
+
+We try to perform these ranking dynamically, using Dynamic Graphs and simulating a real-world
+environment. We start with a small number of nodes and edges and use a ranking algorithm such as
+Proximal Policy Optimization to rank these nodes. The model in this case is not retrained from scratch,
+but rather reloaded from its previous state to ensure quick convergence.
+ 
 </div>
