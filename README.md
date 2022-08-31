@@ -13,6 +13,7 @@ the strength of neural nets and the soundness of reinforcement learning paradigm
 shown multiple deep Reinforcement Learning-based algorithms have been employed to perform the
 Learning to Rank task and their efficacy is evident when evaluated on standard Learning to Rank
 benchmark datasets.
+
 In order to build upon previous research, achieve our objectives, and to improve LTR models, we
 incorporate a framework that utilises Graph Neural Networks along with Reinforcement Learning. We
 use citation networks to incorporate GNNs into our research. This is followed by the utilisation of RL
