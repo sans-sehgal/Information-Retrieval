@@ -1,7 +1,7 @@
 # Information-Retrieval
 
 ### ABSTRACT 
-<div align="center"> Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
+<div align="justify"> Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
 the invention of computers, information retrieval systems that support and accomplish this goal have
 been of highest importance. Their significance has multiplied with the advent of the Internet and web
 search engines. The Learning to Rank (LTR) subtask, which deals with the ranking of information
