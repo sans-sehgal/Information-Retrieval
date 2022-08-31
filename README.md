@@ -58,7 +58,8 @@ added into the system.
 <br>
 <br>
 </div>
-<div align = "justify">  Dataset: We use the [CORA](https://relational.fit.cvut.cz/dataset/CORA) dataset for preliminary testing. Once we were able to obtain good results from this dataset, we continue our testing on larger datasets such as DBLP which will prove the
+<div align = "justify"> 
+Dataset: We use the [CORA](https://relational.fit.cvut.cz/dataset/CORA) dataset for preliminary testing. Once we were able to obtain good results from this dataset, we continue our testing on larger datasets such as DBLP which will prove the
 reliability of the system. Testing on the latter is currently underway. The CORA dataset consists of
 2708 Nodes (or documents) while the DBLP dataset consists of 3 million nodes.
 </div>
