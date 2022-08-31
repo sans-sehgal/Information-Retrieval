@@ -22,7 +22,7 @@ entire workflow is explained in much more detail later in the report.
 
 ### METHODOLOGY
 
-We use RL algorithms for ranking while utilising Graph Neutral Networks or GNN’s to generate node
+<div align = "justify"> We use RL algorithms for ranking while utilising Graph Neutral Networks or GNN’s to generate node
 embeddings. The first step in the process is calculating the node embeddings of documents. Libraries
 such as Node2Vec and DeepWalk are used to calculate embeddings of the nodes. In our problem
 statement, the nodes are the documents that need to be ranked and the edges are the links between the
@@ -31,3 +31,4 @@ themselves and the links will be the citations these papers carry to different p
 
 
 ![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
+</div>
