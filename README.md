@@ -37,6 +37,9 @@ themselves and the links will be the citations these papers carry to different p
 <br>
 <br>
 ![Skip Gram Model](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Skip%20Gram%20Model.png)
+ <br>
+ <br>
+ <br>
 Initially, we carry out these rankings on a static graph, and analyse the results obtained. However, since
 static graphs involve training the GNN model from scratch every time new nodes (aka documents) are
 added, it takes too long to train. Thus, to make our implementation more practical and feasible to real
