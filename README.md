@@ -1,7 +1,7 @@
 # Information-Retrieval
 
 ### ABSTRACT 
-<p style="text-align: justify">
+<p style="text-align: right">
   
 Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
 the invention of computers, information retrieval systems that support and accomplish this goal have
