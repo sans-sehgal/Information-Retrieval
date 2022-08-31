@@ -64,5 +64,5 @@ reliability of the system. Testing on the latter is currently underway. The CORA
 <br>
 <br>
 <br>
-![Static Graphs](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/static%20graph%20workflow.png "Static Graph Workflow")
+![Static Graphs](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/static%20graph%20workflow.png)
 
