@@ -28,7 +28,9 @@ such as Node2Vec and DeepWalk are used to calculate embeddings of the nodes. In 
 statement, the nodes are the documents that need to be ranked and the edges are the links between the
 documents. For instance, in the scenario of searching for research papers, the nodes will be the papers
 themselves and the links will be the citations these papers carry to different papers within the dataset.
-
+<br>
+<br>
+<br>
 
 ![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
 </div>
