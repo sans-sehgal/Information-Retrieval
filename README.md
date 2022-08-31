@@ -49,5 +49,14 @@ We try to perform these ranking dynamically, using Dynamic Graphs and simulating
 environment. We start with a small number of nodes and edges and use a ranking algorithm such as
 Proximal Policy Optimization to rank these nodes. The model in this case is not retrained from scratch,
 but rather reloaded from its previous state to ensure quick convergence.
- 
 </div>
+
+### STATIC GRAPHS
+<div align = "justify"> In this setting, we use a static GNN to rank documents based on the embeddings generated using
+Node2Vec. Since we use a static GNN, the model is trained from scratch each time new nodes are
+added into the system.
+
+**Dataset:** We use the CORA dataset for preliminary testing. Once we were able to obtain good results
+from this dataset, we continue our testing on larger datasets such as DBLP which will prove the
+reliability of the system. Testing on the latter is currently underway. The CORA dataset consists of
+2708 Nodes (or documents) while the DBLP dataset consists of 3 million nodes.
