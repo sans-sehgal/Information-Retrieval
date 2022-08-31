@@ -32,11 +32,11 @@ themselves and the links will be the citations these papers carry to different p
 <br>
 <br>
 
-![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png)
+![Node Embeddings](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Node%20Embeddings.png "Node2Vec")
 <br>
 <br>
 <br>
-![Skip Gram Model](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Skip%20Gram%20Model.png)
+![Skip Gram Model](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/Skip%20Gram%20Model.png "Node2Vec Working")
  <br>
  <br>
  <br>
@@ -57,7 +57,6 @@ Node2Vec. Since we use a static GNN, the model is trained from scratch each time
 added into the system.
 <br>
 <br>
-
 Dataset: We use the <a href="https://relational.fit.cvut.cz/dataset/CORA"> Cora Dataset </a> for preliminary testing. Once we were able to obtain good results from this dataset, we continue our testing on larger datasets such as DBLP which will prove the
 reliability of the system. Testing on the latter is currently underway. The CORA dataset consists of
 2708 Nodes (or documents) while the DBLP dataset consists of 3 million nodes.
