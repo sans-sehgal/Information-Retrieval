@@ -2,6 +2,7 @@
 
 ### ABSTRACT 
 <div style="text-align: justify">
+  
 Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
 the invention of computers, information retrieval systems that support and accomplish this goal have
 been of highest importance. Their significance has multiplied with the advent of the Internet and web
