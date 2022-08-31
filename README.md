@@ -56,8 +56,9 @@ but rather reloaded from its previous state to ensure quick convergence.
 Node2Vec. Since we use a static GNN, the model is trained from scratch each time new nodes are
 added into the system.
 <br>
- <br>
-**Dataset:** We use the CORA dataset for preliminary testing. Once we were able to obtain good results
+<br>
+</div>
+**Dataset:**<div align = "justify">  We use the CORA dataset for preliminary testing. Once we were able to obtain good results
 from this dataset, we continue our testing on larger datasets such as DBLP which will prove the
 reliability of the system. Testing on the latter is currently underway. The CORA dataset consists of
 2708 Nodes (or documents) while the DBLP dataset consists of 3 million nodes.
