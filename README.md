@@ -66,8 +66,7 @@ reliability of the system. Testing on the latter is currently underway. The CORA
 <br>
 <img src = "https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/static%20graph%20workflow.png"></img>
 <br>
-<br>
-<br>
+
 
 <h3> DYNAMIC GRAPHS </h3>
 <div align = "justify">
@@ -97,8 +96,7 @@ baselines provided for the CORA dataset is done.
 <br>
 <img src = "https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/final%20comparison.png"></img>
 <br>
-<br>
-<br>
+
 </div>
 
 <h4> For a more detailed analysis please check out this <a href="https://drive.google.com/file/d/1mQ564F_1NBC1EWwx3hb0Gn0HKfciByOS/view"> Technical Report </a>. </h4>
