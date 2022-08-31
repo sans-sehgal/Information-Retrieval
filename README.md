@@ -1,9 +1,7 @@
 # Information-Retrieval
 
 ### ABSTRACT 
-<p style="text-align: justift;">
-  
-Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
+<div align="center"> Finding pertinent information from a variety of sources is known as information retrieval (IR). Since
 the invention of computers, information retrieval systems that support and accomplish this goal have
 been of highest importance. Their significance has multiplied with the advent of the Internet and web
 search engines. The Learning to Rank (LTR) subtask, which deals with the ranking of information
@@ -20,7 +18,7 @@ incorporate a framework that utilises Graph Neural Networks along with Reinforce
 use citation networks to incorporate GNNs into our research. This is followed by the utilisation of RL
 algorithms such as PPO and MDPRank to rank the documents present in the citation network. The
 entire workflow is explained in much more detail later in the report.
-</p>
+</div>
 
 ### METHODOLOGY
 
