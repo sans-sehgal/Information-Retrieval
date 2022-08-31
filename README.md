@@ -61,3 +61,8 @@ Dataset: We use the <a href="https://relational.fit.cvut.cz/dataset/CORA"> Cora 
 reliability of the system. Testing on the latter is currently underway. The CORA dataset consists of
 2708 Nodes (or documents) while the DBLP dataset consists of 3 million nodes.
 </div>
+<br>
+<br>
+<br>
+![Static Graphs](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/static%20graph%20workflow.png "Static Graph Workflow")
+
