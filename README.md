@@ -57,12 +57,48 @@ Node2Vec. Since we use a static GNN, the model is trained from scratch each time
 added into the system.
 <br>
 <br>
-Dataset: We use the <a href="https://relational.fit.cvut.cz/dataset/CORA"> Cora Dataset </a> for preliminary testing. Once we were able to obtain good results from this dataset, we continue our testing on larger datasets such as DBLP which will prove the
+Dataset: We use the <a href="https://relational.fit.cvut.cz/dataset/CORA"> Cora Dataset </a> for preliminary testing. Once we were able to obtain good results from this dataset, we continue our testing on larger datasets such as <a href = "https://www.aminer.org/citation">DBLP</a> which will prove the
 reliability of the system. Testing on the latter is currently underway. The CORA dataset consists of
 2708 Nodes (or documents) while the DBLP dataset consists of 3 million nodes.
 </div>
 <br>
 <br>
 <br>
-![Static Graphs](https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/static%20graph%20workflow.png)
+<img src = "https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/static%20graph%20workflow.png"></img>
+<br>
+<br>
+<br>
 
+<h3> DYNAMIC GRAPHS </h3>
+<div align = "justify">
+The main advantage of dynamic graphs over static graphs is that we can save the model after every
+iteration and reload it from its previous state. This technique allows the model to converge much faster
+than when we initialise the model parameters from scratch as is the case with static graphs.
+<br>
+<br>
+ Dataset: We use the <a href="https://relational.fit.cvut.cz/dataset/CORA"> Cora Dataset </a> dataset for preliminary testing. Once we were able to obtain good results
+from this dataset, we continue our testing on larger datasets such as <a href = "https://www.aminer.org/citation">DBLP</a> which will testify to the
+robustness of the system. The CORA dataset consists of 2708 Nodes (or documents) while the DBLP
+dataset consists of 3 million nodes.
+ <br>
+ <br>
+ <br>
+<img src = "https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/dynamic%20graph%20workflow.png"></img>
+<br>
+<br>
+<br>
+<h3> RESULTS </h3>
+
+This section describes the results obtained by each of the algorithms in the context of learning to rank.
+Then analysis and comparison of these results with the state-of-the-art MDPRank scores and the
+baselines provided for the CORA dataset is done.
+<br>
+<br>
+<br>
+<img src = "https://github.com/sans-sehgal/Information-Retrieval/blob/main/Images/final%20comparison.png"></img>
+<br>
+<br>
+<br>
+</div>
+
+<h4> For a more detailed analysis please check out this <a href="https://drive.google.com/file/d/1mQ564F_1NBC1EWwx3hb0Gn0HKfciByOS/view"> Technical Report </a>. </h4>
